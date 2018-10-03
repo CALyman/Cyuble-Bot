@@ -91,4 +91,4 @@ class MyClient(discord.Client):
                 await message.channel.send("Number not recognized. Please try again")
             
 client = MyClient()
-client.run('NDk2MTY4NDA0MDQyOTA3NjQ4.DpMvHg.O01P5QAwRi2OoR0t4vCEUqIGXBs')
+client.run('token')
